@@ -1,1 +1,1 @@
-# mysite
+# seje.github.io/mysite
