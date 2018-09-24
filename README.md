@@ -1,1 +1,1 @@
-<https://seje.github.io/mysite>
+<https://seje.github.io/site>
